@@ -49,11 +49,13 @@ for i in range(1,5)
 ```
 ## Tabla de clasificación de España
 
-| equipo | pts| 
+| equipo |pj| pts| 
 |--------|--------|
-| España |`6`|
-|Inglaterra|`3`| 
-|Croacia|`3`|
-|R.Checa|`0`|
+| España |2|`6`|
+|Inglaterra|2|`3`| 
+|Croacia |2|`3`|
+|R.Checa |2|`0`|
 
 >. Markdown presenta el futbol
+
+
