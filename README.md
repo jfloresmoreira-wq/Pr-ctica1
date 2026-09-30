@@ -43,6 +43,6 @@ Entra al enlace [España vs Croacia](https://www.bing.com/sportsdetails?q=Espa%C
 
 ## codigo inspirador
 
-'''python
+''' Pitón 
 for i in range(1,5)
     print("Arriba España")
