@@ -23,6 +23,7 @@ España se se pone como primero de grupo despues de ganar sus ultimos dos partid
     - Zeki Amdouni
 
 ## Clasificados del momento del grupo de España
--[x] España
--[x] Inglaterra
-[ ] Croacia
+
+- [x] España
+- [x] Croacia
+- [x] Inglaterra
