@@ -43,6 +43,17 @@ Entra al enlace [España vs Croacia](https://www.bing.com/sportsdetails?q=Espa%C
 
 ## codigo inspirador
 
-''' Pitón 
+``` python
 for i in range(1,5)
     print("Arriba España")
+```
+## Tabla de clasificación de España
+
+| equipo |    |pts| 
+|--------|    |----|
+| España |    |`6`|
+|Inglaterra|  |`3`| 
+|Croacia|     |`3`|
+|R.Checa|     |`0`|
+
+>. Markdown presenta el futbol
