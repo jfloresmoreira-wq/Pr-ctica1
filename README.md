@@ -50,7 +50,7 @@ for i in range(1,5)
 ## Tabla de clasificación de España
 
 | equipo |    |pts| 
-|--------|    |----|
+|--------|----|
 | España |    |`6`|
 |Inglaterra|  |`3`| 
 |Croacia|     |`3`|
